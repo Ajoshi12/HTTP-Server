@@ -1,7 +1,7 @@
 # README
 
 #### Description
-HTTP Server that handles GET and PUT requests with Caching and logging.
+HTTP server that handles GET and PUT requests with caching and logging.
 #### Running the Program
 In order to run the httpserver.cpp file, you run:
 ```sh
